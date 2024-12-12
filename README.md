@@ -122,4 +122,4 @@ Cada membro do grupo desempenhou um papel na construção desse repositório, se
 - **Larissa:** Construção e adição de exemplos.
 - **Pedro:** Divisão de tarefas e revisão geral.
 - **Raphael:** Organização do repositório e formatação do texto para .md.
-- **Ryan:** Revisão e adição da seção 1.5.
+- **Ryan:** Revisão e adicionou 1.5 e adicionou os benefícios da seção 3
